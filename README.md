@@ -3,8 +3,6 @@
 - 🌱 I'm currently learning **python**
 
 - ⚡A1 French B1 Spanish B2 English C2 Portuguese
-  
-- 👨‍💻 All of my projects are available at **https://github.com/Ushallz?tab=repositories**
 
   Cakes all over the place!🍰🌧️ 
 
