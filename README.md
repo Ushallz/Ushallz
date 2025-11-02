@@ -17,3 +17,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+<div align="center">
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ushallz/Ushallz/blob/output/github-contribution-grid-snake-dark.svg">
+      <img src="https://github.com/Ushallz/Ushallz/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation"    </picture>
+</div>
