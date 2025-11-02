@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋😉, I'm Thiago Oliveira
 
-<!--
-**Ushallz/Ushallz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I'm currently learning **python**
 
-Here are some ideas to get you started:
+- ⚡A1 French B1 Spanish B2 English C2 Portuguese
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   Cakes all over the place!🍰🌧️
+
+- 👨‍💻 All of my projects are available at **[https://github.com/Ushallz](https://github.com/Ushallz)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Ushallz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ushallz" height="30" width="40" /></a>
+<a href="https://instagram.com/thxz.oliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thxz.oliveira" height="30" width="40" /></a>
+<a href="https://discord.gg/ushallzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ushallzy" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
